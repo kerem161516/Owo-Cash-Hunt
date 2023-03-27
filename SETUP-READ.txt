@@ -1,0 +1,12 @@
+ TR/ENG
+
+ --SETUP--
+
+ 1- Run Install_python-1 and Install Python on Your Computer.
+ 2- Run pip-install-python-2 and Install Python's Pips.
+ 3- Run start-3 Owo Hunter Activates.
+
+ --OWO Hunter
+
+-------------------------------------------------------------------------------------------
+ 
